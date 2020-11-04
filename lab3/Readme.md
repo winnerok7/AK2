@@ -1,4 +1,4 @@
-# Lab 3
+## Lab 3
 ### 1.List of keys:
 * -l --list
 * -h --help
