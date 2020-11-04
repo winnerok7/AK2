@@ -6,7 +6,7 @@
 * -V --value
 
 ### 2.Makefile
-make build app with keys: 
+make build app with keys:\n 
 -l -h -v -V100 
 #### 2.1 make build
 build app
